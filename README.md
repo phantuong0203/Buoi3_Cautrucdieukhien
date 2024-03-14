@@ -12,7 +12,7 @@ Bài 4: Viết chương trình nhập vào số nguyên từ bàn phím, kiểm 
 
 Bài 5: Viết chương trình nhập vào tháng bất kỳ từ bàn phím, hiển thị số ngày có trong tháng ra màn hình.
 
-Bài 6: Viết chương trình nhập vào số nguyên n, tính tổng S theo công thức sau và hiển thị kết quả ra màn hình. 𝑆 = 1 + 22 + 33 + 44 + ⋯ + 𝑛
+Bài 6: Viết chương trình nhập vào số nguyên n, tính tổng S theo công thức sau và hiển thị kết quả ra màn hình. 𝑆 = 1 + 2^2 + 3^3 + 4^4 + ⋯ + 𝑛^n
 
 Bài 7: Viết chương trình nhập vào số nguyên n, tính tổng các số lẽ từ 1 đến n và hiển thị kết quả ra màn hình.
 
